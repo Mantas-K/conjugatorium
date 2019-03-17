@@ -1,0 +1,11 @@
+Initial name: Conjugatorium 
+
+The purpose of the website: A place for people to train the usage of different verb endings in German language
+
+The concept: the website is going to crawl through a corpus of german texts to create the database of sentences with all forms of /all verbs. The users would be then able to go through these sentences with the verb hidden with only its infinitive form given. After the user entered his guess for the correct form of the verb, the correct answer would be then displayed. 
+
+
+Key components: (1) a crawler to extract sentences; (2) an algorithm to quantify/categorise sentences based on their perceived difficulty and to categorise sentences having verbs sharing the same infinitive form together; (3) databases for the test sentences and the user profiles; (4) an algorithm to present users with the most appropriate test sentences based on a previous performance by a user;  
+
+Random ideas not to be forgotten: (1) The same concept can be applied to other parts of language (adjectives, pronouns etc. etc.), (2) other languages; (3) a plugin for a quick google translation; (4) 
+
